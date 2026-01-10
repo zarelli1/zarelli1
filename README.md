@@ -1,24 +1,40 @@
-### Hi there, I'm Leonardo Zarelli 👋
+# Hi there, I'm Leonardo Zarelli 👋
 
-I am a **Full Stack Analytics Engineer** focused on building data-intensive applications and automated workflows.
-I bridge the gap between **Software Engineering** (Next.js/NestJS), **Data Intelligence** (SQL), and **Process Automation** (n8n).
+> **Full Stack Analytics Engineer** bridging the gap between Software Engineering, Data Intelligence, and Process Automation.
 
----
-
-#### 🛠️ The Stack (My Tools)
-* **Frontend & Visualization:** React (Next.js), Recharts, TailwindCSS.
-* **Backend & API:** Node.js (NestJS), REST, GraphQL.
-* **Automation & Ops:** n8n (Complex Workflows), AI Agents Integration.
-* **Data & Logic:** SQL (PostgreSQL), Data Modeling, Business Intelligence Logic.
+I design scalable systems that turn raw data into actionable business insights. My focus is on **clean architecture**, **automated workflows**, and **intuitive interfaces**.
 
 ---
 
-#### 🔭 Current Focus
-Building **Social CRM**, a platform that integrates customer data with real-time sales dashboards using AI agents.
+## 🛠️ The Tech Ecosystem
 
-#### 📈 Key Projects
-* **[Social CRM Analytics]**: A full-stack CRM with automated financial dashboards.
-* **[Retail POS System]**: Transactional system with inventory tracking.
+My toolbox is optimized for performance and scalability:
+
+| Domain | Stack |
+| :--- | :--- |
+| **Frontend & UI** | React (Next.js/Vite), TailwindCSS, ShadcnUI, Recharts |
+| **Backend & API** | Node.js (NestJS), REST Architecture, Supabase |
+| **Data & Logic** | PostgreSQL, SQL Modeling, Business Intelligence Logic |
+| **Ops & Auto** | n8n (Workflow Automation), Docker, AI Agents |
 
 ---
-[LinkedIn](https://www.linkedin.com/in/leonardo-zarelli/) | [Portfolio](https://leonardo-zarelli.vercel.app)
+
+## 💼 Featured Architecture: Social CRM Engine
+
+**Role:** Lead Analytics Engineer (Stealth Startup)
+
+I architected the core data engine to solve a critical blindness in sales operations.
+
+* **The Challenge:** The sales team lacked real-time visibility on **CAC** (Customer Acquisition Cost) and **LTV** (Lifetime Value), leading to inefficient ad spend.
+* **The Solution:** A full-stack ecosystem that ingests leads, enriches data, and visualizes ROI in real-time.
+
+```mermaid
+graph TD
+    A[📱 Social Leads] -->|Raw Data| B(⚡ n8n Automation Workflows)
+    B -->|Enriched Lead| C{⚙️ NestJS Core API}
+    C -->|Store Transaction| D[(🗄️ PostgreSQL)]
+    C -->|Calculate LTV/CAC| E[📊 Next.js Analytics Dashboard]
+    
+    style B fill:#ff9f43,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#ee5253,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#2e86de,stroke:#333,stroke-width:2px,color:#fff
