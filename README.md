@@ -21,4 +21,4 @@ Building **Social CRM**, a platform that integrates customer data with real-time
 * **[Retail POS System]**: Transactional system with inventory tracking.
 
 ---
-[LinkedIn](https://www.linkedin.com/in/leonardo-zarelli/) | [Portfolio][https://leonardo-zarelli.vercel.app]
+[LinkedIn](https://www.linkedin.com/in/leonardo-zarelli/) | [Portfolio](https://leonardo-zarelli.vercel.app)
