@@ -1,30 +1,28 @@
 # 🛡️ Leonardo Zarelli | Web3 Security Researcher
 
-I am a **Smart Contract Auditor** specializing in EVM security and DeFi logic. Currently transitioning from a high-level background in Analytics Engineering to the top tier of Web3 security.
+Eu sou um **Auditor de Smart Contracts** focado em segurança de EVM e integridade de protocolos DeFi. Estou transicionando de uma carreira sólida em Analytics Engineering para o topo da segurança em Web3.
 
 ---
 
-### 🚀 Technical Arsenal
-- **Languages:** Solidity, Yul (Learning), Python, JavaScript, SQL.
-- **Security Tools:** Foundry, Slither, Aderyn, Echidna, Mythril.
-- **Frameworks:** Hardhat, OpenZeppelin.
-- **Focus:** Access Control, Reentrancy, Oracle Manipulation, DeFi Math.
+### 🚀 Arsenal Técnico (O que eu uso para caçar bugs)
+- **Linguagens:** Solidity, Python, JavaScript, SQL.
+- **Ferramentas de Segurança:** Foundry, Slither, Aderyn, OpenZeppelin.
+- **Foco de Estudo:** Controle de Acesso, Reentrancy, Matemática DeFi e Lógica de Negócios.
 
 ---
 
-### 🔍 Proof of Work (My Portfolio)
-- **[Security-Audits](./web3-security-audits):** Detailed reports from private reviews and competitive audits.
-- **[Ethernaut-Solutions](./ethernaut-solutions):** Deep dives into OpenZeppelin's security challenges.
-- **[Foundry-Toolbox](./foundry-security-toolbox):** Custom fuzzing and invariant testing templates.
+### 🔍 Portfólio de Auditoria (Prova de Trabalho)
+- **[Security-Audits](./web3-security-audits):** Relatórios detalhados de vulnerabilidades encontradas em estudos e competições.
+- **[Ethernaut-Solutions](./ethernaut-solutions):** Explicações técnicas de desafios de segurança de baixo nível.
+- **[My-Solidity-Lab](./solidity-studies):** Testes, contratos de estudo e implementações seguras.
 
 ---
 
-### ✍️ Research & Writing
-I break down complex exploits and security patterns on my Substack:
+### ✍️ Pesquisa e Escrita
+Eu disseco padrões de segurança no meu Substack que estou apendendo:
 👉 [leonardozarelli.substack.com](https://leonardozarelli.substack.com)
 
 ---
 
-### 🇮🇹 EU-Based / Italian Citizenship
-Available for international mandates and global collaboration.
+### 🇮🇹 Cidadania Italiana | Disponível Globalmente
 [Twitter](https://x.com/lzrgeracaoz2000) | [LinkedIn](https://www.linkedin.com/in/leonardo-zarelli/) | [Substack](https://leonardozarelli.substack.com)
