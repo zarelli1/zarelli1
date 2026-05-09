@@ -19,7 +19,7 @@ Eu sou um **Auditor de Smart Contracts** focado em segurança de EVM e integrida
 ---
 
 ### ✍️ Pesquisa e Escrita
-Eu disseco padrões de segurança no meu Substack que estou apendendo:
+Eu disseco padrões de segurança no meu Substack, em que estou apendendo:
 👉 [leonardozarelli.substack.com](https://leonardozarelli.substack.com)
 
 ---
