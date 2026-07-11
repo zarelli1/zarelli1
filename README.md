@@ -1,28 +1,39 @@
-# 🛡️ Leonardo Zarelli | Web3 Security Researcher
+# 📊 Leonardo Zarelli | Analista de Dados & Full Stack Developer
 
-Eu sou um **Auditor de Smart Contracts** focado em segurança de EVM e integridade de protocolos DeFi. Estou transicionando de uma carreira sólida em Analytics Engineering para o topo da segurança em Web3.
-
----
-
-### 🚀 Arsenal Técnico (O que eu uso para caçar bugs)
-- **Linguagens:** Solidity, Python, JavaScript, SQL.
-- **Ferramentas de Segurança:** Foundry, Slither, Aderyn, OpenZeppelin.
-- **Foco de Estudo:** Controle de Acesso, Reentrancy, Matemática DeFi e Lógica de Negócios.
+Atuo na construção de sistemas de dados completos — da modelagem do banco até dashboards analíticos — unindo a visão de análise de dados com a capacidade de construir a solução técnica do zero.
 
 ---
 
-### 🔍 Portfólio de Auditoria (Prova de Trabalho)
-- **[Security-Audits](./web3-security-audits):** Relatórios detalhados de vulnerabilidades encontradas em estudos e competições.
-- **[Ethernaut-Solutions](./ethernaut-solutions):** Explicações técnicas de desafios de segurança de baixo nível.
-- **[My-Solidity-Lab](./solidity-studies):** Testes, contratos de estudo e implementações seguras.
+### 🧰 Stack Técnica
+
+**Dados:** SQL, PostgreSQL, Python (pandas), Modelagem de Dados, ETL
+**Dashboards & BI:** Looker Studio, Power BI (em evolução)
+**Automação:** n8n, integração via APIs REST
+**Full Stack:** JavaScript/TypeScript, React, Next.js, Node.js
+**Ferramentas:** Git/GitHub, DBeaver, VS Code
 
 ---
 
-### ✍️ Pesquisa e Escrita
-Eu disseco padrões de segurança no meu Substack, em que estou apendendo:
-👉 [leonardozarelli.substack.com](https://leonardozarelli.substack.com)
+### 💼 Experiência prática
+
+Trabalho no ciclo completo de dados em produção:
+- Modelagem e manutenção de banco de dados (PostgreSQL)
+- Pipelines de tratamento de dados em Python (incluindo dados sem API disponível)
+- Consultas SQL complexas para KPIs de faturamento, recorrência e conversão
+- Dashboards analíticos consumidos por times de negócio
+- Automação de processos operacionais (onboarding, alimentação de sistema) via n8n
 
 ---
 
-### 🇮🇹 Cidadania Italiana | Disponível Globalmente
-[Twitter](https://x.com/lzrgeracaoz2000) | [LinkedIn](https://www.linkedin.com/in/leonardo-zarelli/) | [Substack](https://leonardozarelli.substack.com)
+### 📁 Projetos
+
+- **[data-analytics-portfolio](#)** — projetos de análise e tratamento de dados
+- Em breve: cases documentados dos dashboards e pipelines construídos na Socialzap
+
+---
+
+### 🌍 Disponibilidade
+
+🇮🇹 Cidadão italiano — aberto a oportunidades remotas no Brasil e, futuramente, na Europa.
+
+📫 [LinkedIn](https://www.linkedin.com/in/leonardo-zarelli/)
