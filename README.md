@@ -1,17 +1,17 @@
-# 📊 Leonardo Zarelli | Analista de Dados & Full Stack Developer
+📊 Leonardo Zarelli | Em transição de Dados para Cloud Security Engineering
 
-Atuo na construção de sistemas de dados completos — da modelagem do banco até dashboards analíticos — unindo a visão de análise de dados com a capacidade de construir a solução técnica do zero.
+Construí minha base técnica trabalhando no ciclo completo de dados em produção — modelagem de banco, pipelines, dashboards de negócio para +300 empresas. Agora estou direcionando essa experiência técnica para segurança em nuvem, começando pela certificação AZ-104 (Azure Administrator), com trilha estruturada até Security Operations Analyst e Cloud Security Engineer.
 
----
+🎯 Por que essa transição
+Trabalhar diretamente com dados sensíveis em produção (PostgreSQL, +300 empresas) me aproximou naturalmente das questões de segurança, acesso e governança de infraestrutura — hoje é o que mais me atrai tecnicamente.
 
-### 🧰 Stack Técnica
+🧰 Base técnica atual
+Dados: SQL, PostgreSQL, Python, ETL, modelagem de dados
+Full Stack: JavaScript/TypeScript, React, Next.js, Node.js
+Cloud (em construção): Azure Administration (AZ-104), rumo a Security+ e SC-200/SC-500
 
-**Dados:** SQL, PostgreSQL, Python (pandas), Modelagem de Dados, ETL
-**Dashboards & BI:** Looker Studio, Power BI (em evolução)
-**Automação:** n8n, integração via APIs REST
-**Full Stack:** JavaScript/TypeScript, React, Next.js, Node.js
-**Ferramentas:** Git/GitHub, DBeaver, VS Code
-
+📚 Trilha de certificação em andamento
+AZ-104 (Azure Administrator) → Security+ → SC-200 (Security Operations) → SC-500
 ---
 
 ### 💼 Experiência prática
@@ -25,15 +25,7 @@ Trabalho no ciclo completo de dados em produção:
 
 ---
 
-### 📁 Projetos
-
-- **[data-analytics-portfolio](#)** — projetos de análise e tratamento de dados
-- Em breve: cases documentados dos dashboards e pipelines construídos na Socialzap
-
----
-
-### 🌍 Disponibilidade
-
-🇮🇹 Cidadão italiano — aberto a oportunidades remotas no Brasil e, futuramente, na Europa.
+🌍 Disponibilidade
+🇮🇹 Cidadão italiano — em transição para Cloud Security, aberto a oportunidades no Brasil e, futuramente, na Europa (foco em Suíça/Ticino).
 
 📫 [LinkedIn](https://www.linkedin.com/in/leonardo-zarelli/)
